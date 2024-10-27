@@ -5,9 +5,6 @@
 ### Description
 This project draws comparison between natural language processing (NLP) techniques like TextRank and Retrieval Augmented Generation (RAG) for text summarization and question answering of a literary novel - Alice in a Wonderland. It is tailored for processing large literary texts and to return relevant summaries and answers, utilizing embeddings and similarity computations for improved accuracy.
 
-1. **Text Summarization:** Uses RAG and TextRank, including hashing techniques (MinHash and SimHash), for efficient extraction of core textual information.
-2. **Question Answering (QnA):** Employs RAG with TF-IDF and GloVe embeddings to deliver contextually relevant answers.
-
 ### Project Structure
 
 ```bash
