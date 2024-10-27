@@ -1,6 +1,6 @@
 # RAGNovel: Retrieval Augmented Summarization and Question Answering of Literary Texts
 
-## Coursework for CIS530 - Advanced Data Mining, Spring'24
+CIS530 - Project Work for Spring 2024: Comparative analysis of NLP techniques, including TextRank and Retrieval Augmented Generation (RAG), for summarizing and Question-Answering
 
 ### Description
 This project draws comparison between natural language processing (NLP) techniques like TextRank and Retrieval Augmented Generation (RAG) for text summarization and question answering of a literary novel - Alice in a Wonderland. It is tailored for processing large literary texts and to return relevant summaries and answers, utilizing embeddings and similarity computations for improved accuracy.
